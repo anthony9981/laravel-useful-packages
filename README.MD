@@ -1,7 +1,7 @@
 ## Useful Laravel Packages
 
-### Database
-- Create Migrations from Database: oscarafdev/migrations-generator
+### 1. Database to Migrations
+- Create Migrations from Database: [oscarafdev/migrations-generator](https://github.com/oscarafdev/migrations-generator/)
 ```bash
 composer require oscarafdev/migrations-generator --dev
 ```
